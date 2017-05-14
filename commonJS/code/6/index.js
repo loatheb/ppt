@@ -1,0 +1,1 @@
+module.exports = 'this is something from a'
