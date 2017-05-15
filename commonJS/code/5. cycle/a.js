@@ -1,3 +1,4 @@
+// a.js
 module.exports = '[a]: this is info exports from a before loading b'
 
 const b = require('./b')
